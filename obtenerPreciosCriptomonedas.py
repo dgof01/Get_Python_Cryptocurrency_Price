@@ -2,7 +2,7 @@ import requests
 import time
 
 headers = {
-        'X-CMC_PRO_API_KEY': 'TU_API',
+        'X-CMC_PRO_API_KEY': 'YOUR_API_KEY',
         'Accepts': 'application/json'
         }
 
